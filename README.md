@@ -1,7 +1,7 @@
 <h1 align="center">Salam, I'm Qiyas 👋</h1>
 
 <p align="center">
-  <b>Founder @ CC venture</b> · Builder · Problem-solver<br>
+  <b>Manager · Builder · Researcher</b><br>
   I build real-world automation, web platforms & messaging bots — and I ship fast.
 </p>
 
@@ -9,6 +9,13 @@
   <a href="https://qiyas.cc"><img src="https://img.shields.io/badge/Website-qiyas.cc-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:qiyasturk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Baku-Azerbaijan-1d9bf0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/qiyascc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/qiyascc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://wa.me/994509894622"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://instagram.com/qiyascc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
