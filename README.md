@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://qiyas.cc"><img src="https://img.shields.io/badge/Website-qiyas.cc-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://theqiyas.cc"><img src="https://img.shields.io/badge/Website-theqiyas.cc-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:qiyasturk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Baku-Azerbaijan-1d9bf0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
