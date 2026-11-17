@@ -1,68 +1,60 @@
-<h1 align="center">Salam, I'm Qiyas 👋</h1>
+<h1 align="center">Qiyas CC</h1>
 
 <p align="center">
-  <b>Manager · Builder · Researcher</b><br>
-  I build real-world automation, web platforms & messaging bots — and I ship fast.
+  <b>CC</b> · developer, coder and problem solver from Baku, Azerbaijan<br>
+  Web platforms, mobile apps, bots and payment integrations, built end to end.
 </p>
 
 <p align="center">
-  <a href="https://theqiyas.cc"><img src="https://img.shields.io/badge/Website-theqiyas.cc-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:qiyasturk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Baku-Azerbaijan-1d9bf0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-</p>
-
-<p align="center">
+  <a href="https://theqiyas.cc/"><img src="https://img.shields.io/badge/theqiyas.cc-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="theqiyas.cc"></a>
+  <a href="https://theqiyas.cc/hire/"><img src="https://img.shields.io/badge/Hire_me-2563eb?style=for-the-badge" alt="Hire me"></a>
   <a href="https://www.linkedin.com/in/qiyascc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/qiyascc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://wa.me/994509894622"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://instagram.com/qiyascc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
----
+I am Qiyas CC, or simply CC. Everything I make ships under that name: my site [theqiyas.cc](https://theqiyas.cc/), the daily [CC News](https://theqiyas.cc/news/), and the client sites that carry the line "Developed by CC". On paper I am still Qiyas Sadıqov. More about me on [theqiyas.cc/about](https://theqiyas.cc/about/).
 
-### 🛠️ Tech I work with
+### What I build
 
-<p align="center">
+- **Web platforms** in Django, from the database to the server they run on
+- **Mobile apps** in Flutter, with the back end behind them
+- **WhatsApp and Telegram bots** for businesses
+- **Payment integrations**: Epoint, cards, Apple Pay, Google Pay
+- **Real estate platforms and CRMs**, academic journal sites, restaurant ordering systems
+- **TikTok LIVE games** for streamers
+
+The full list is on [theqiyas.cc/projects](https://theqiyas.cc/projects/).
+
+### Open source
+
+| Library | What it does |
+| --- | --- |
+| [epoint-python-sdk](https://github.com/qiyascc/epoint-python-sdk) | Python SDK for the Epoint payment gateway |
+| [binaaz-python-sdk](https://github.com/qiyascc/binaaz-python-sdk) | Client for bina.az |
+| [tapaz-python-sdk](https://github.com/qiyascc/tapaz-python-sdk) | Client for tap.az |
+| [lalafo-python-sdk](https://github.com/qiyascc/lalafo-python-sdk) | Client for lalafo.az |
+| [fazercards-python-sdk](https://github.com/qiyascc/fazercards-python-sdk) | FazerCards reseller API |
+| [godaddy-python-sdk](https://github.com/qiyascc/godaddy-python-sdk) | GoDaddy domains and DNS |
+| [namecheap-python-sdk](https://github.com/qiyascc/namecheap-python-sdk) | Namecheap domains and DNS |
+| [hostinger-python-sdk](https://github.com/qiyascc/hostinger-python-sdk) | Hostinger domains and DNS |
+| [digitalocean-python-sdk](https://github.com/qiyascc/digitalocean-python-sdk) | DigitalOcean domains and DNS |
+| [django-cc-admin](https://github.com/qiyascc/django-cc-admin) | Django admin theme |
+| [django-sightline](https://github.com/qiyascc/django-sightline) | Heatmaps and session replay for Django |
+
+All of them are on PyPI with documentation on Read the Docs.
+
+### Tools
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
----
-
-### 📌 What I'm building
-
-- 🤖 **WhatsApp & Telegram bots** — dispatcher systems, real-estate assistants, automation
-- 🌐 **Web platforms** — Django backends & modern frontends
-- 🔗 **Data tooling** — scraping, pipelines & integrations (`databridge`)
-- 🧩 **Reusable scaffolds** — like [`django-layout`](https://github.com/qiyascc/django-layout), my Django starter
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qiyascc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Qiyas's GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiyascc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiyascc&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-<p align="center">
-  <i>"I like to get the job done — quickly."</i>
-</p>
+Away from the keyboard I play chess.
