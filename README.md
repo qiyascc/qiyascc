@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://theqiyas.cc/"><img src="https://img.shields.io/badge/theqiyas.cc-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="theqiyas.cc"></a>
-  <a href="https://theqiyas.cc/hire/"><img src="https://img.shields.io/badge/Hire_me-2563eb?style=for-the-badge" alt="Hire me"></a>
+  <a href="https://qiyas.cc/"><img src="https://img.shields.io/badge/qiyas.cc-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="qiyas.cc"></a>
+  <a href="https://qiyas.cc/hire/"><img src="https://img.shields.io/badge/Hire_me-2563eb?style=for-the-badge" alt="Hire me"></a>
   <a href="https://www.linkedin.com/in/qiyascc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/qiyascc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://instagram.com/qiyascc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-I am Qiyas CC, or simply CC. Everything I make ships under that name: my site [theqiyas.cc](https://theqiyas.cc/), the daily [CC News](https://theqiyas.cc/news/), and the client sites that carry the line "Developed by CC". On paper I am still Qiyas Sadıqov. More about me on [theqiyas.cc/about](https://theqiyas.cc/about/).
+I am Qiyas CC, or simply CC. Everything I make ships under that name: my site [qiyas.cc](https://qiyas.cc/), the daily [CC News](https://qiyas.cc/news/), and the client sites that carry the line "Developed by CC". On paper I am still Qiyas Sadıqov. More about me on [qiyas.cc/about](https://qiyas.cc/about/).
 
 ### What I build
 
@@ -24,7 +24,7 @@ I am Qiyas CC, or simply CC. Everything I make ships under that name: my site [t
 - **Real estate platforms and CRMs**, academic journal sites, restaurant ordering systems
 - **TikTok LIVE games** for streamers
 
-The full list is on [theqiyas.cc/projects](https://theqiyas.cc/projects/).
+The full list is on [qiyas.cc/projects](https://qiyas.cc/projects/).
 
 ### Open source
 
